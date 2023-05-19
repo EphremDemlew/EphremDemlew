@@ -1,9 +1,9 @@
 - 👋 Hi, I’m  ✨ ✨ ✨ Ephrem Demlew  ✨ ✨ ✨
-- 👀 I’m interested in  ... Learning Fullstack and deep learning 
+- 👀 I’m interested in  ... Learning Fullstack and AI 
 - 🌱 I’m currently learning ... NextJs
 - 💞️ I’m looking to collaborate on ... web
 - 📫 How to reach me ... my linkdin https://www.linkedin.com/in/ephremdemlew/
--
+
 
 
 <a href="https://app.daily.dev/Ephremd"><img src="https://api.daily.dev/devcards/117ba052a69144bc96791e4dfa27a5ad.png?r=amo" width="400" alt="Ephrem's Dev Card"/></a>
