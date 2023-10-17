@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  ✨ ✨ ✨ Ephrem Demlew  ✨ ✨ ✨
 - 👀 I’m interested in  ... Learning AI and Business Management 
-- 🌱 I’m currently learning ... NextJs
+- 🌱 I’m currently learning ... Go
 - 💞️ I’m looking to collaborate on ... web
 - 📫 How to reach me ... my linkdin https://www.linkedin.com/in/ephremdemlew/
 
